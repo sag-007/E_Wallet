@@ -19,3 +19,7 @@ Also, integrate with Swagger for API documentation.
 ![](/userservice.PNG)
 
 **USER SERVICE**Microservice
+
+![](/database.PNG)
+
+**DATABASE LOG**
