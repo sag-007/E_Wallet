@@ -11,3 +11,11 @@ This Project contain two independent micro services. They are WalletService & Us
 This project is a built using Spring boot, Mysql.
 
 Also, integrate with Swagger for API documentation.
+
+![](/allusers.PNG)
+
+**ALL USERS DATABASE**
+
+![](/userservice.PNG)
+
+**USER SERVICE**Microservice
